@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+}
+
+.time-cell {
+  white-space: nowrap;
+  min-width: 14rem;
+}
